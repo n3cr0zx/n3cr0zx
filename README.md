@@ -1,7 +1,7 @@
 # Hey, I'm Neal 
 
 - I'm currently based in Atlanta
-- I'm currently doing Neural Networks using PyTorch and TensorFlow
+- I'm currently learning ml using PyTorch and TensorFlow
 - On the side I'm doing image recogntion projects with OpenCV
 - You can contact me at: nealvrao@gmail.com
 
